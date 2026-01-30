@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <loc>https://jainscafe.netlify.app/</loc>
+  <lastmod>2026-01-30T17:33:08+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://jainscafe.netlify.app/menu</loc>
+  <lastmod>2026-01-30T17:33:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jainscafe.netlify.app/about</loc>
+  <lastmod>2026-01-30T17:33:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jainscafe.netlify.app/contact</loc>
+  <lastmod>2026-01-30T17:33:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
